@@ -1,0 +1,9 @@
+{
+  "type": "client-java",
+  "require": {
+    "sdkfabric/deepseek": {
+      "target": "./src/main/java/org/sdkfabric/deepseek",
+      "namespace": "org.sdkfabric.deepseek"
+    }
+  }
+}
