@@ -1,0 +1,9 @@
+{
+  "name": "Deepseek",
+  "description": "Deepseek Java SDK managed by SDK Fabric",
+  "website": "https://sdk-fabric.org",
+  "namespace": "org.sdkfabric.deepseek",
+  "namespace_path": "org/sdkfabric/deepseek",
+  "group_id": "org.sdk-fabric",
+  "artifact_id": "deepseek"
+}
